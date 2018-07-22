@@ -1,1 +1,1 @@
-sqlites3 bears.db < seed.sql;
+bears.db < seed.sql;
